@@ -87,7 +87,7 @@ Deployment
 
 This API is deployed at Render and can be accessed publicly:
 
-    Deployed URL: https://your-api.onrender.com
+    Deployed URL: https://justsmtp.onrender.com
 
 License
 
