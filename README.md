@@ -26,12 +26,14 @@ To set up this project locally, follow the steps below:
    cd justsmtp
 
 2. **Navigate to the project directory:**
+   
 cd justsmtp
 
-3. **Set up a Virtual Environment:**
+4. **Set up a Virtual Environment:**
+
 python3 -m venv venv
 
-4. **Activate the Virtual Environment:**
+5. **Activate the Virtual Environment:**
 Once the virtual environment is created, activate it:
 
     On Linux/MacOS:
