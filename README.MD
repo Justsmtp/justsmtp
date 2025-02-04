@@ -28,10 +28,10 @@ python3 -m venv venv
 Activate the Virtual Environment
 source venv/bin/activate
 
-    Clone the repository:
+Clone the repository:
 
-git clone git clone https://github.com/Justsmtp/justsmtp.git
-cd justsmtp
+ git clone git clone https://github.com/Justsmtp/justsmtp.git
+ cd justsmtp
 
 Install dependencies:
 
@@ -100,13 +100,3 @@ git commit -m "Initial commit for Number Classification API"
 git remote add origin https://github.com/Justsmtp/justsmtp.git
 
 git push -u origin master
-
-
-
-Create a new repository on GitHub.
-
-Push your code to GitHub:
-
-git remote add origin git clone https://github.com/Justsmtp/justsmtp.git
-git branch -M main
-git push -u origin main
