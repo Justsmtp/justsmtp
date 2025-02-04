@@ -37,9 +37,13 @@ Install dependencies:
 
 pip install -r requirements.txt
 
+
 Run the app:
 
+
     python app.py
+
+
 
 API Usage
 Endpoint:
@@ -82,13 +86,22 @@ Your API will be available at https://<your-service-name>.onrender.com/api/class
 License
 
 This project is licensed under the MIT License.
+
 5. Push Your Code to GitHub
 
     Initialize a Git repository:
 
 git init
+
 git add .
-git commit -m "Initial commit"
+
+git commit -m "Initial commit for Number Classification API"
+
+git remote add origin https://github.com/Justsmtp/justsmtp.git
+
+git push -u origin master
+
+
 
 Create a new repository on GitHub.
 
