@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import requests
+import os
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -38,10 +39,14 @@ def classify_number():
         return jsonify({"number": number, "error": True}), 400
 
     num = int(number)
-    properties = ["even" if num % 2 == 0 else "odd"]
+    properties = []
 
+    # Ensure "armstrong" comes first if applicable
     if is_armstrong(num):
         properties.append("armstrong")
+
+    # Then add "even" or "odd"
+    properties.append("even" if num % 2 == 0 else "odd")
 
     result = {
         "number": num,
@@ -56,4 +61,6 @@ def classify_number():
 
 # Run the Flask app
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(debug=False, host='0.0.0.0', port=port)
+
