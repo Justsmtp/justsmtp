@@ -1,29 +1,25 @@
 <h1 align="center">Hey there, I'm Oladimeji Toba 👋</h1>
 <p align="center">
-  <i>Backend & Cloud Engineering Enthusiast | Technical Writer | ALX Software Engineering Program</i>
+  <i>Backend & Cloud Engineering Enthusiast | Technical Writer | ALX Software Engineering Graduate</i>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-🌱 I’m currently learning in the ALX <strong>Software Engineering</strong> program, specializing in <strong>Backend Engineering</strong> and <strong>AWS Cloud Technologies</strong>.  
+🎓 I’m a graduate of the <strong>ALX Software Engineering</strong> program, where I specialized in <strong>Backend Engineering</strong> and <strong>AWS Cloud Technologies</strong>.  
 
-✍️ Alongside coding, I’m passionate about **technical writing** — transforming complex technical concepts into clear, well-structured documentation that helps developers and teams work smarter.  
+✍️ I’m also a passionate **technical writer**, skilled at translating complex technical concepts into clear, engaging, and developer-friendly documentation.  
 
-💡 What inspires me?  
-<blockquote>
-  <em>"The fact that human problems can be solved using technology. I'm fascinated by how basic apps are built, how servers function, and the 'magic' behind cloud platforms."</em>
-</blockquote>
+💡 I’m driven by the belief that technology can solve real-world problems and that great documentation makes innovation accessible to everyone. I love exploring how apps work, how servers communicate, and how cloud platforms power modern systems.  
 
-🧠 I’m currently diving deep into:  
-- Python, Django, and FastAPI  
-- Node.js and Express  
-- AWS Cloud Services  
-- Next.js (for building full-stack experiences)  
-- Technical documentation and API reference writing  
+🧠 I’m currently focused on:
+- Building and documenting backend systems  
+- Writing developer guides and API references  
+- Exploring cloud automation and DevOps best practices  
+- Contributing to open-source documentation projects  
 
-🎯 My goal is to master backend systems, cloud infrastructure, and documentation to build **scalable**, **well-documented**, and **developer-friendly** solutions.
+🎯 My goal is to create **scalable**, **well-documented**, and **impactful** solutions that empower developers and businesses.
 
 ---
 
